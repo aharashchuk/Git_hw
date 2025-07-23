@@ -1,0 +1,6 @@
+favorite film: Interstellar
+favorite tv series: The Expanse
+favorite food: Pizza
+favorite time of the year: Summer
+contry to visit: Italy
+
