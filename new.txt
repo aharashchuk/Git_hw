@@ -1,0 +1,4 @@
+contact: Alexey Harashchuk
+age: 40
+cats: 1
+salary expectations: can be discussed
